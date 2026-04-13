@@ -3,7 +3,7 @@
 
 
 
-       "The treasure you seek is in the cave you fear to enter" 
+       "The cave you fear to enter holds the treasure you seek" 
        -Joseph Campbell
        
 
