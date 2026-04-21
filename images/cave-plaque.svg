@@ -29,15 +29,15 @@
     <rect x="26" y="26" width="768" height="112" rx="14" fill="url(#plaqueInner)" stroke="url(#edgeGlow)" stroke-width="2"/>
     <rect x="38" y="38" width="744" height="88" rx="10" fill="none" stroke="#D6B06B" stroke-opacity="0.75" stroke-width="1.5"/>
 
-    <path d="M86 82H178" stroke="#D8B87A" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
-    <path d="M642 82H734" stroke="#D8B87A" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
-    <path d="M178 82L190 70L202 82L190 94L178 82Z" fill="#C79D58" opacity="0.9"/>
-    <path d="M618 82L630 70L642 82L630 94L618 82Z" fill="#C79D58" opacity="0.9"/>
+    <path d="M86 92H178" stroke="#D8B87A" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+    <path d="M642 92H734" stroke="#D8B87A" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+    <path d="M178 92L190 80L202 92L190 104L178 92Z" fill="#C79D58" opacity="0.9"/>
+    <path d="M618 92L630 80L642 92L630 104L618 92Z" fill="#C79D58" opacity="0.9"/>
 
     <text x="410" y="72" text-anchor="middle" fill="#F6E7C3" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="0.2">
       "The cave you fear to enter holds the treasure you seek."
     </text>
-    <text x="410" y="108" text-anchor="middle" fill="#D8B87A" font-family="Georgia, 'Times New Roman', serif" font-size="22">
+    <text x="410" y="118" text-anchor="middle" fill="#D8B87A" font-family="Georgia, 'Times New Roman', serif" font-size="22">
       - Joseph Campbell
     </text>
   </g>
