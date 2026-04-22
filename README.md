@@ -8,4 +8,4 @@
 **Engineering Manager + Senior Full Stack Developer**
 
 - Currently: Building in Stealth 🥷
-- Previously: [Binance](https://www.binance.us/), [Facebook](https://www.facebook.com/)
+- Previously: [Binance](https://www.binance.us/), [Facebook](https://www.facebook.com/), [CoinFlip](https://coinflip.tech/)
