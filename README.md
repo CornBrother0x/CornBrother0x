@@ -7,5 +7,5 @@
 
 **Engineering Manager + Senior Full Stack Developer**
 
-- Currently: Building in Stealth 🥷
+- Currently: VP of Engineering at Stealth Startup
 - Previously: [Binance](https://www.binance.us/), [Facebook](https://www.facebook.com/), [CoinFlip](https://coinflip.tech/)
