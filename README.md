@@ -5,7 +5,7 @@
   <img src="./images/cave-plaque.svg" alt="The cave you fear to enter holds the treasure you seek. - Joseph Campbell" width="56%">
 </p>
 
-**Engineering Manager + Senior Full Stack Developer**
+**Engineering Manager + Senior Developer**
 
 - Currently: Building in Stealth 🥷
 - Previously: [Binance](https://www.binance.us/), [Facebook](https://www.facebook.com/), [CoinFlip](https://coinflip.tech/)
