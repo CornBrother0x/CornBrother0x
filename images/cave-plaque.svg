@@ -3,9 +3,9 @@
   <rect x="30" y="32" width="760" height="112" rx="12" fill="#2B1C10" stroke="#D6B06B" stroke-width="2"/>
   <rect x="44" y="46" width="732" height="84" rx="8" stroke="#8A6436" stroke-width="1.5"/>
 
-  <text x="410" y="68" text-anchor="middle" fill="#F3E4BE" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">
+  <text x="410" y="68" text-anchor="middle" fill="#F3E4BE" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">
     <tspan x="410" dy="0">"The cave you fear to enter</tspan>
-    <tspan x="410" dy="28">holds the treasure you seek."</tspan>
+    <tspan x="410" dy="24">holds the treasure you seek."</tspan>
   </text>
 
   <path d="M92 120H308" stroke="#B58A49" stroke-width="2" stroke-linecap="round"/>
