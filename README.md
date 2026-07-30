@@ -5,6 +5,4 @@
   Currently: VP of Engineering at Stealth Startup
   <br>
   Previously: <a href="https://www.binance.us/">Binance</a>, <a href="https://www.facebook.com/">Facebook</a>, <a href="https://coinflip.tech/">CoinFlip</a>
-  <br>
-  Preparing: <a href="https://cornbrother0x.github.io/brett-ramp-interview-prep-guide/">Brett Potter's Ramp interview study prep guide</a>
 </p>
